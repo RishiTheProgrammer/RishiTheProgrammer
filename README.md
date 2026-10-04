@@ -22,7 +22,7 @@
 
 ## About me
 
-I am a frontend programmer who creates beautiful frontend designs with **Bootstrap**, **Bootstrap Icons**, and **CSS animations**.
+I am a frontend programmer who creates beautiful frontend designs with **Bootstrap**, **React Icons**, **React**, **GSAP** and **CSS animations**.
 
 I like interfaces that feel finished: clear layout, responsive grids, and motion that helps the page instead of getting in the way. I keep learning, then I go back and make older projects better.
 
