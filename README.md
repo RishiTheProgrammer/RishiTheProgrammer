@@ -100,12 +100,6 @@ I care about clean layout, responsive grids, and motion that helps the page inst
 ## GitHub stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RishiTheProgrammer&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0c0c0c&title_color=f2613f&text_color=fafafa&icon_color=9b3922" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiTheProgrammer&layout=compact&langs_count=6&hide_border=true&bg_color=0c0c0c&title_color=f2613f&text_color=fafafa" alt="Top languages"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=RishiTheProgrammer&hide_border=true&background=0c0c0c&ring=f2613f&fire=9b3922&currStreakLabel=f2613f&sideLabels=fafafa&currStreakNum=fafafa&sideNums=fafafa&dates=9b3922" alt="GitHub streak"/>
 
 </div>
